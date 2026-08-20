@@ -8,10 +8,12 @@ A Repo consisting of solution of all leetcode question .
 | ------- |
 | [0001-two-sum](https://github.com/arthh661/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/arthh661/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arthh661/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A Repo consisting of solution of all leetcode question .
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arthh661/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -28,4 +31,16 @@ A Repo consisting of solution of all leetcode question .
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arthh661/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
