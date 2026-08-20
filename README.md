@@ -7,6 +7,7 @@ A Repo consisting of solution of all leetcode question .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arthh661/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/arthh661/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/arthh661/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -34,6 +35,7 @@ A Repo consisting of solution of all leetcode question .
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arthh661/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -43,4 +45,8 @@ A Repo consisting of solution of all leetcode question .
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/arthh661/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
