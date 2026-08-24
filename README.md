@@ -1,5 +1,5 @@
 # Leetcode
-A Repo consisting of solution of all leetcode question . 
+A Repo consisting of solution of all leetcode question and its solution. 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
