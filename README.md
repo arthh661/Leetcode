@@ -9,6 +9,7 @@ A Repo consisting of solution of all leetcode question and its solution.
 | [0001-two-sum](https://github.com/arthh661/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/arthh661/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/arthh661/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arthh661/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arthh661/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arthh661/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -18,6 +19,7 @@ A Repo consisting of solution of all leetcode question and its solution.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arthh661/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arthh661/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -77,4 +79,8 @@ A Repo consisting of solution of all leetcode question and its solution.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arthh661/Leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
