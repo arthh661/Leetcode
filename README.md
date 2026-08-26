@@ -8,6 +8,7 @@ A Repo consisting of solution of all leetcode question and its solution.
 | ------- |
 | [0001-two-sum](https://github.com/arthh661/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/arthh661/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/arthh661/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arthh661/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arthh661/Leetcode/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A Repo consisting of solution of all leetcode question and its solution.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arthh661/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/arthh661/Leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -84,5 +86,6 @@ A Repo consisting of solution of all leetcode question and its solution.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arthh661/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
