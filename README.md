@@ -16,6 +16,7 @@ A Repo consisting of solution of all leetcode question and its solution.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arthh661/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arthh661/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/arthh661/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arthh661/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arthh661/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -25,6 +26,7 @@ A Repo consisting of solution of all leetcode question and its solution.
 | [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arthh661/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arthh661/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/arthh661/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arthh661/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -91,4 +93,8 @@ A Repo consisting of solution of all leetcode question and its solution.
 | [0048-rotate-image](https://github.com/arthh661/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/arthh661/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/arthh661/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/arthh661/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
